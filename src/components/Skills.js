@@ -71,7 +71,7 @@ const Skills = () => {
                       <h3>Git</h3>
                     </div>
                     <div className="item" data-aos="flip-left" data-aos-duration="1000">
-                      <img src="/assets/skills/SQl.png" alt="Node" />
+                      <img src="/assets/skills/SQL.png" alt="Node" />
                       <h3>SQL</h3>
                     </div>
                     {/* Add more skills as needed */}
