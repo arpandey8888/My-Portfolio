@@ -9,9 +9,9 @@
   },
   {
     "key": 2,
-    "title": "AI Image Generator",
-    "imageSrc": "https://i0.wp.com/lifehacksthatwork.com/wp-content/uploads/2023/02/Free-AI-Image-Generators-A-List.png?fit=1920%2C1080&ssl=1",
-    "description": "Transforms text prompts into stunning visuals in seconds Optimized for mobile with lazy loading & shareable links Includes: Style presets, upscaling, and batch generation Cut design time by 40% for test users",
+    "title": "AI Image Enhancer",
+    "imageSrc": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/03/65f1cfcbc48274001e2cb9f6-adobestock_566275368.png?auto=format,compress&fit=max&q=45&w=640&width=640",
+    "description": "Increasing the resolution of low-quality images while maintaining or enhancing detail and sharpness, often using super-resolution algorithms.Implemented loading indicators, error handling, and real-time enhancement previews for improved UX.",
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
